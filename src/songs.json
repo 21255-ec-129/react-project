@@ -1,0 +1,53 @@
+[
+    {
+    "id":1,
+    "title":"maguva maguva",
+    "song":"https://www.youtube.com/embed/fqM8DJIZIDw"
+    },
+    {
+        "id":2,
+        "title":"pataass pilla",
+        "song":"https://www.youtube.com/embed/o8YkhsEQFnQ"
+        },
+        {
+            "id":3,
+            "title":"oo sitaa ooh rama",
+            "song":"https://www.youtube.com/embed/L3KWrJ3DAU8"
+            },
+            {
+                "id":4,
+                "title":"kanunna kalyanam",
+                "song":"https://www.youtube.com/embed/jwY0wDCQt4s"
+                },
+                {
+                    "id":5,
+                    "title":"ye manishiki majilio",
+                    "song":"https://www.youtube.com/embed/bOJqTkeW5lA"
+                    },
+                    {
+                        "id":6,
+                        "title":"sirivennela",
+                        "song":"https://www.youtube.com/embed/2kU2b9PYcs"
+                        },
+                        {
+                            "id":7,
+                            "title":"ee rathale",
+                            "song":"https://www.youtube.com/embed/b1_5YO11rmM"
+                            },
+                            {
+                                "id":8,
+                                "title":"dharshana",
+                                "song":"https://www.youtube.com/embed/epAFDEJImrU"
+                                },
+                                {
+                                    "id":9,
+                                    "title":"chustu chustune",
+                                    "song":"https://www.youtube.com/embed/aoo9QkKRNgI"
+                                    },
+                                    {
+                                        "id":10,
+                                        "title":"gundellona gundellona",
+                                        "song":"https://www.youtube.com/embed/t_aO4EMP-i0"
+                                        }
+        
+]
